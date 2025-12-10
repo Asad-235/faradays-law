@@ -1,0 +1,5 @@
+{
+  "name": "Faraday's Law Lab first",
+  "description": "An interactive physics simulation demonstrating Faraday's Law of Induction. Move a magnet through a coil and observe the induced EMF on a galvanometer.",
+  "requestFramePermissions": []
+}
